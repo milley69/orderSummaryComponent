@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/milley69/nftPreviewCardComponent/master/img/design/component-preview.jpg)
+![App Screenshot](https://raw.githubusercontent.com/milley69/orderSummaryComponent/master/img/design/component-preview.jpg)
 
 ## Color Reference
 
